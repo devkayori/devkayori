@@ -7,11 +7,8 @@
 
 Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с того, как я поступил в Южный Федеральный Университет, где по сей день обучаюсь. Во время обучения я понял, что хочу создавать веб-приложения и начал углубленно заниматься этим. С сентября 2023 года я изучаю разработку и сейчас на пути к тому, чтобы показать всему свету свои успехи!
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/progkayori) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ejigura@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-devkayori-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/progkayori) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ejigura@mail.ru)
 
 ---
 
@@ -32,8 +29,12 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
 ---
